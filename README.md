@@ -28,7 +28,7 @@ After selecting option `1`, the program asks for a phone number, which is how th
 
 `2 - My Appointments` Displays a customer's appointments
 
-After selecting option `2`, the program asks for a phone number, so it look in the database for all appointments under the given user.
+After selecting option `2`, the program asks for a phone number to be able to look in the database for all appointments under the given user.
 
 
 
